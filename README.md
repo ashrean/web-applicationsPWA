@@ -53,4 +53,4 @@ registerRoute(({ request}) => ['style', 'script', 'worker'].includes(request.des
 ```
 # Resources
 - Class Activities
--
+
