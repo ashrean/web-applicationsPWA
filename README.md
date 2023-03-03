@@ -25,7 +25,7 @@ To build this text editor, you will start with an existing application and imple
 
 # Github Account
 - [GitHub](https://github.com/ashrean)
-- [Deployed Link](https://git.heroku.com/boiling-journey-63655.git)
+- [Deployed Link](https://boiling-journey-63655.herokuapp.com/)
 
 # Images
 ![alt text](./client/src/images/Screenshot%202023-03-02%20at%2010.58.08%20PM.png)
@@ -53,4 +53,3 @@ registerRoute(({ request}) => ['style', 'script', 'worker'].includes(request.des
 ```
 # Resources
 - Class Activities
-
