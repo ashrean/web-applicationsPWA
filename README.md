@@ -4,7 +4,7 @@
 - [web-applicationsPWA](#web-applicationspwa)
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
-- [Installtion Instructions](#installtion-instructions)
+- [Installation Instructions](#installation-instructions)
 - [Github Account](#github-account)
 - [Images](#images)
 - [Contacts](#contacts)
@@ -15,7 +15,7 @@
 
 # Description
 
-# Installtion Instructions
+# Installation Instructions
 
 # Github Account
 - [GitHub](https://github.com/ashrean)
