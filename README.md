@@ -19,10 +19,13 @@ To build this text editor, you will start with an existing application and imple
 
 # Installation Instructions
 - Please make sure you install the following package
+  - In terminal run the following command `npm install`
+- To run the program, run the following command
+  - In terminal run `npm start`
 
 # Github Account
 - [GitHub](https://github.com/ashrean)
-- [Deployed Link]()
+- [Deployed Link](https://git.heroku.com/boiling-journey-63655.git)
 
 # Images
 ![alt text](./client/src/images/Screenshot%202023-03-02%20at%2010.58.08%20PM.png)
